@@ -1,7 +1,6 @@
 ## First Steps in java programming and GIt/ GitHub
 
-. Starting with Java - 
-#### My Academy - Oracle
+. Starting with Java: My Academy - Oracle
 
 . Starting with Git:
  <https://www.youtube.com/watch?v=MW7hrQe6aYo&t=190s>
