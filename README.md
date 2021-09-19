@@ -1,5 +1,8 @@
 ## First Steps in java programming and GIt/ GitHub
 
+A small java programming using coditional structure: If-else 
+
+
 . Starting with Java: My Academy - Oracle
 
 . Starting with Git:
